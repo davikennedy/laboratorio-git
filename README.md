@@ -1,16 +1,22 @@
-# Level Up Wiz :rocket:
 
-> Status do projeto: Em desenvolvimento
+
+<h2>⚡Laboratório Git - Level Up Wiz</h2>
+
+- Status do projeto: Concluído.
 
 <h2>🎯 Objetivo do projeto</h2>
-<p> Aprender novos comandos do Git, além de reforçar os comandos já aprendidos.</p>
 
+- Obter e aplicar conhecimento sobre versionamento de código e trabalho em equipe, com o uso das ferramentas Git e GitHub.
 
-<h2>🔧 Instalação [Em construção]</h2>
+<h2>🔧 Tecnologias utilizadas</h2>
 
-Para rodar esse projeto em sua máquina, é necessário ter o [dotnet instalado](https://learn.microsoft.com/pt-br/dotnet/core/tools/global-tools-how-to-use "dotnet instalado").
-Após isso, basta entrar na pasta do projeto e digitar:
+- Git
+- GitHub
 
-```
-dotnet run
-```
+<h2>➕ Desenvolvedores</h2>
+
+[<img src="https://avatars.githubusercontent.com/u/59313485?v=4" width=115><br><sub>Davi Kennedy</sub>](https://github.com/davikennedy)
+ 
+<h2>📧 Contatos</h2>
+
+- e-mail: davi_kennedy@live.com
