@@ -1,5 +1,3 @@
-
-
 <h2>⚡Laboratório Git - Level Up Wiz</h2>
 
 - Status do projeto: Concluído.
